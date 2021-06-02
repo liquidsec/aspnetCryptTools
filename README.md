@@ -14,7 +14,7 @@ Instructions
 
 For FormsDecrypt.cs:
 
-After building, run on the command line. Example: FormsDecrypt.exe <your encrypted forms cookie>
+After building, run on the command line. Example: FormsDecrypt.exe [your encrypted forms cookie]
 
 For FormsEncrypt.cs:
 
